@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Rabah</h1>
-<h4 align="center">a web developer and computer science student at ahmed sraya university, see my <a href="https://github.com/rabah01abellache/rabah01abellache/blob/main/assets/doc/cv.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">a web developer and computer science student at ahmed draya university, see my <a href="https://github.com/rabah01abellache/rabah01abellache/blob/main/assets/doc/cv.pdf" target="_blank">resume</a> for more</h4>
 </div>
 </br>
 <p align="center">
